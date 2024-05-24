@@ -1,1 +1,4 @@
-# Parallel_KMeans-An_Architecture_and_Platform_for_AI_Project
+# Parallel K-Means - An Architecture and Platform for AI Project
+
+This is the project I did for my Architecture and Platform for AI exam. Below, you will find a detailed report.
+
